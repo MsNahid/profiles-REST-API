@@ -153,3 +153,10 @@ dmypy.json
 *.box
 
 # End of https://www.toptal.com/developers/gitignore/api/python,vagrant
+
+
+
+
+#my custom gitignore
+pro_user/
+/pro_user
